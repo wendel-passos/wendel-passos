@@ -1,6 +1,6 @@
 ### Olá, meu nome é Wendel.
 - 🔭 I’m currently  trablaho como analista de sistemas de investimento.
-- 🌱 I’m currently learning  Banco de dados, SQL, T-SQL, Business Inteligence.
+- 🌱 I’m currently learning  Banco de dados, SQL, T-SQL e Business Inteligence.
 
  <div>
   <a href="https://github.com/wendel-passos">
