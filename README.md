@@ -22,12 +22,14 @@
   <img align="center" alt="Wp-Oracle" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
  </div>
  
- <H2>Contatos</H2>
+ <H3>Contatos</H3>
  <div> 
   <a href="https://www.instagram.com/wendel.passos7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wendeleduardo137@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendel-passos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+ 
+
  
  
  
