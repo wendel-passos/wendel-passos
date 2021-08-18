@@ -31,7 +31,7 @@
  
  <H3>Views</H3>
  <div> 
-  <img align= "left" alt="WP" height="22" width="60" src="https://komarev.com/ghpvc/?username=wendel-passos&color=grey&label=👁&style=plastic" alt="wendel-passos"/>
+  <img align= "center" alt="WP" height="22" width="60" src="https://komarev.com/ghpvc/?username=wendel-passos&color=grey&label=👁&style=plastic" alt="wendel-passos"/>
  </div>
 
  
