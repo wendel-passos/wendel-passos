@@ -12,7 +12,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel-passos&layout=demo&langs_count=7&theme=react">
 </div>
  
- <H2>Conhecimentos </H2>
+ <H2>My Skills </H2>
 <div style="display: inline_block">
   <img align="center" alt="Wp-Js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wp-HTML" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
