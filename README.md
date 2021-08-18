@@ -3,7 +3,6 @@
  <br></br>
 - 🔭 I’m currently  trabalho como analista de sistemas de investimento.
 - 🌱 I’m currently learning  Banco de dados, SQL, T-SQL e Business Inteligence.
-
  <br></br>
 
 
