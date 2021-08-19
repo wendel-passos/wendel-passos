@@ -29,10 +29,12 @@
   <a href="https://www.linkedin.com/in/wendel-passos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
- <H3>Views</H3>
- <div> 
-  <img align= "center" alt="WP" height="22" width="60" src="https://komarev.com/ghpvc/?username=wendel-passos&color=grey&label=👁&style=plastic" alt="wendel-passos"/>
- </div>
+<p align = "Center">
+  <H4>Views</H4>
+  <div> 
+   <img alingn="center" src="https://profile-counter.glitch.me/wendel-passos/count.svg" />
+  </div>
+</p>
 
  
 
