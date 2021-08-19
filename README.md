@@ -1,4 +1,4 @@
- <H1>Olá, meu nome é Wendel Passos.</H1>
+ <h1>Olá, meu nome é Wendel Passos.</h1>
  
 
 - 🔭 I’m currently  trabalho como analista de sistemas de investimento.
@@ -12,7 +12,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel-passos&layout=demo&langs_count=7&theme=react">
 </div>
  
- <H2>My Skills</H2>
+ <h2>My Skills</h2>
 <div style="display: inline_block">
   <img align="center" alt="Wp-Js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wp-HTML" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -22,18 +22,19 @@
   <img align="center" alt="Wp-Oracle" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
  </div>
  
- <H3>Contatos</H3>
+ Contatos
+ ---
  <div> 
   <a href="https://www.instagram.com/wendel.passos7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:wendeleduardo137@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendel-passos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
  
-<p align = "Center">
-  <H4>Views</H4>
-  <div> 
+<h4 align = "center">Views 👁</h4>
+<p align = "center">
+ <p align = "center">
    <img alingn="center" src="https://profile-counter.glitch.me/wendel-passos/count.svg" />
-  </div>
+ </p>
 </p>
 
  
