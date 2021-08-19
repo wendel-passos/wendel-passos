@@ -1,4 +1,4 @@
- <h1 align = "center">Olá, meu nome é Wendel Passos.</h1>
+ <h1>Olá, meu nome é Wendel Passos.</h1>
  
 
 - 🔭 I’m currently  trabalho como analista de sistemas de investimento.
