@@ -1,8 +1,7 @@
  <h1>Olá, meu nome é Wendel Passos.</h1>
  
-
-- 🔭 I’m currently  trabalho como estagiário de sistemas de investimento.
-- 🌱 I’m currently learning  Banco de dados, SQL, T-SQL e Business Inteligence.
+* 🔭 I’m currently  trabalho como estagiário de sistemas de investimento.
+* 🌱 I’m currently learning  Banco de dados, SQL, T-SQL e Business Inteligence.
  <br></br>
 
 
@@ -14,13 +13,13 @@
  
  <h2 align = "center">My Skills</h2>
 <div style="display: inline_block" align = "center">
-  <img align="center" alt="Wp-Js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Wp-HTML" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Wp-CSS" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Wp-Git" height="36" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Wp-SQLServer" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Wp-MySql" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Wp-Oracle" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="Wp-Js" height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Wp-HTML" height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Wp-CSS" height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Wp-Git" height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+  <img align="center" alt="Wp-SQLServer" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Wp-MySql" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Wp-Oracle" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
  </div>
  
 <h2 align = "center">Contatos</h2>
