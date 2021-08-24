@@ -33,9 +33,12 @@
  
 <h2 align = "center">Views</h2>
 <p align = "center">
- <p align = "center">
-   <img alingn="center" src="https://profile-counter.glitch.me/wendel-passos/count.svg" />
- </p>
+  <p align = "center">
+   <img height = "200em"src = https://user-images.githubusercontent.com/77197792/130542706-4ada7e07-7a01-4443-bbed-066944cc1bfe.png>
+  </p>
+  <p align = "center">
+    <img alingn="center" src="https://profile-counter.glitch.me/wendel-passos/count.svg" />
+  </p> 
 </p>
 
  
