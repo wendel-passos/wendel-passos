@@ -17,7 +17,7 @@
   <img align="center" alt="Wp-HTML" height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wp-CSS" height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wp-Git" height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-  <img align="center" alt="Wp-SQLServer" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Wp-SQLServer" height="50em" src=https://user-images.githubusercontent.com/77197792/130713192-7cb23904-d8a3-412b-8eaf-4b5fe059cb56.png>
   <img align="center" alt="Wp-MySql" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Wp-Oracle" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
  </div>
