@@ -1,4 +1,6 @@
- <h1>Olá, meu nome é Wendel Passos.</h1>
+ <h1 align = "center">Olá, meu nome é Wendel Passos.</h1>
+ 
+ -----
  
 * 🔭 I’m currently  trabalho como estagiário de sistemas de investimento.
 * 🌱 I’m currently learning  Banco de dados, SQL, T-SQL e Business Inteligence.
@@ -11,6 +13,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel-passos&layout=demo&langs_count=7&theme=react">
 </div>
  
+ ---
  <h2 align = "center">My Skills</h2>
 <div style="display: inline_block" align = "center">
   <img align="center" alt="Wp-Js" height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +25,8 @@
   <img align="center" alt="Wp-Oracle" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
  </div>
  
+ ---
+ 
 <h2 align = "center">Contatos</h2>
 
  <div align = "center" > 
@@ -29,6 +34,8 @@
   <a href = "mailto:wendeleduardo137@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wendel-passos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+ 
+---
  
 <h2 align = "center">Views</h2>
 <p align = "center">
