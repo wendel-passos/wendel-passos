@@ -6,12 +6,18 @@
 * 🌱 I’m currently learning  Banco de dados, SQL, T-SQL e Business Inteligence.
  <br></br>
 
-
+--Overview
  <div align = "center">
   <a href="https://github.com/wendel-passos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=wendel-passos&show_icons=true&theme=react&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel-passos&layout=demo&langs_count=7&theme=react">
-</div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wendel-passos&show_icons=true&theme=react&include_all_commits=true&count_private=true">
+ </div>
+ </br>
+ 
+ --Dash
+ <div align = "center">
+   <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel-passos&layout=demo&langs_count=7&theme=react">
+ </div>
+
  
  ---
  <h2 align = "center">My Skills</h2>
