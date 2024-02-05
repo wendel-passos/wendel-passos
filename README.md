@@ -14,12 +14,6 @@
  </div>
  </br>
  
-
- <div align = "center">
-   <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel-passos&layout=demo&langs_count=7&theme=react">
- </div>
-
- 
  ---
  <h2 align = "center">My Skills</h2>
 <div style="display: inline_block" align = "center">
