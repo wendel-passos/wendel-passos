@@ -2,7 +2,7 @@
  
  -----
  
-* 🔭 I’m currently  trabalho como estagiário de sistemas de investimento.
+* 🔭 I’m currently  sou bacharel em Sistemas de Informação e trabalho como analiste de  Sistemas de investimento.
 * 🌱 I’m currently learning  Banco de dados, SQL, T-SQL e Business Inteligence.
  <br></br>
  
@@ -14,7 +14,6 @@
  </div>
  </br>
  
-[comment]: <> (Dash) 
 
  <div align = "center">
    <img height="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendel-passos&layout=demo&langs_count=7&theme=react">
