@@ -2,8 +2,8 @@
  
  -----
  
-* 🔭 I’m currently  sou bacharel em Sistemas de Informação e trabalho como analiste de  Sistemas de investimento.
-* 🌱 I’m currently learning  Banco de dados, SQL, T-SQL e Business Inteligence.
+* 🔭 Bachelor's in Information Systems, currently working as an Investment Systems Analyst.
+* 🌱 Studying Databases and C#/.NET development.
  <br></br>
  
 [comment]: <> (Overview) 
