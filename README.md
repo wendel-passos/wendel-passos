@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3c28f572-3740-4096-aaaa-b33e836a9620) <h1 align = "center">Olá, meu nome é Wendel Passos.</h1>
+ <h1 align = "center">Olá, meu nome é Wendel Passos.</h1>
  
  -----
  
@@ -17,6 +17,7 @@
  ---
  <h2 align = "center">My Skills</h2>
   <div style="display: inline_block" align = "center">
+  <img align="center" alt="Wp-Js" height="40em" src="https://icon.icepanel.io/Technology/svg/.NET-core.svg">
   <img align="center" alt="Wp-Js" height="40em" src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000">
   <img align="center" alt="Wp-Js" height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wp-HTML" height="40em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
